@@ -10,6 +10,7 @@ import renato from "../../img/renato.jpeg";
 import leon from "../../img/leon.jpeg";
 import rigo from "../../img/rigo-baby.jpg";
 import connie from "../../img/connie.jpeg";
+
 import seba from "../../img/seba.jpeg";
 
 export const Home = () => {
